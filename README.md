@@ -57,9 +57,7 @@ El total de pasajeros que puede transportar una formación.
     formación; se espera un conjunto de vagones.
 
 7.  Si un depósito necesita un conductor experimentado. Un depósito necesita un
-    conductor.
-
-8.  Experimentado si alguna de sus formaciones es compleja. Una formación es
+    conductor experimentado si alguna de sus formaciones es compleja. Una formación es
     compleja si: tiene más de 20 unidades (sumando locomotoras y vagones), o el peso
     total (sumando locomotoras y vagones) es de más de 10000 kg.
 
@@ -76,7 +74,7 @@ correspondientes.
 Para cada punto, indicar a qué objeto se le pide lo que se indica, con qué mensaje, qué
 parámetros, y qué devuelve.
 
-Para el punto 8, indicar en qué otros objetos delega el responsable de hacer lo que se pide,
+Para el punto 7, indicar en qué otros objetos delega el responsable de hacer lo que se pide,
 y qué delega. Si hay una cadena de delegaciones (al objeto 1 le piden algo,
 entonces delega algo en el objeto 2, y el objeto 2 para hacer lo que le pidió el 1 tiene que
 delegar otra cosa en otro objeto 3) indicarla.
