@@ -1,3 +1,5 @@
+<img src="img/tren_antiguo.jpeg" height="200" width="300">
+
 # Ejercicio - Trenes
 
 Una administradora ferroviaria necesita una aplicación que le ayude a manejar las
